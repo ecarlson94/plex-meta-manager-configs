@@ -5,7 +5,7 @@
 templates:
   Decade:
   # I was not able to find any posters i liked for decades 00 and 10, so i did not use the template. 
-    smart_filter:
+    plex_search:
       any:
         decade: <<year>>
     url_poster: <<poster>>

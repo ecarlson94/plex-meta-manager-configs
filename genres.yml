@@ -9,7 +9,7 @@ templates:
   Genre:
     optional:
       - second_genre
-    smart_filter:
+    plex_search:
       any:
         genre: <<genre>>
         genre: <<second_genre>>
@@ -159,7 +159,7 @@ collections:
       - https://www.imdb.com/list/ls027886673/
       - https://www.imdb.com/list/ls097998599/
     summary: Christmas film is a genre that revolves around the plot involving Christmas.
-  Halloween.:
+  Halloween:
     template: {name: Holiday, poster: https://theposterdb.com/api/assets/27316}
     trakt_list:
       - https://trakt.tv/users/kairbear08/lists/halloween
