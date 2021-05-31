@@ -1,24 +1,24 @@
-# https://github.com/meisnate12/Plex-Meta-Manager                                      
-                                      ######################################################
-                                      #                Movie Collections                   #
-                                      ######################################################
+# https://github.com/meisnate12/Plex-Meta-Manager
+######################################################
+#                Movie Collections                   #
+######################################################
 ###########################
 #        Templates        #
 ###########################
 templates:
-    Genre:
-        smart_filter:
-          all:
-            genre: <<genre>>
-        url_poster: <<poster>>
-        sort_title: +++++++_<<collection_name>>
-        collection_order: alpha
-        smart_label: random
-    Holiday:
-        url_poster: <<poster>>
-        sort_title: +++++++_<<collection_name>>
-        collection_order: release
-        smart_label: random
+  Genre:
+    smart_filter:
+      all:
+        genre: <<genre>>
+    url_poster: <<poster>>
+    sort_title: +++++++_<<collection_name>>
+    collection_order: alpha
+    smart_label: random
+  Holiday:
+    url_poster: <<poster>>
+    sort_title: +++++++_<<collection_name>>
+    collection_order: release
+    smart_label: random
 
 collections:
 ###########################
@@ -150,7 +150,7 @@ collections:
       - https://trakt.tv/users/movistapp/lists/christmas-movies
       - https://trakt.tv/users/2borno2b/lists/christmas-movies-extravanganza
     imdb_list:
-     - https://www.imdb.com/list/ls025976544/
+      - https://www.imdb.com/list/ls025976544/
       - https://www.imdb.com/list/ls003863000/
       - https://www.imdb.com/list/ls027454200/
       - https://www.imdb.com/list/ls027886673/

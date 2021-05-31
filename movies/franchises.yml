@@ -27,19 +27,19 @@ collections:
   2000s Scooby:
     template: {name: Collection, collection: 86860}
   A Christmas Prince:
-    template: {name: Collection, collection: 526203}    
+    template: {name: Collection, collection: 526203}
   Ace Ventura:
-    template: {name: Collection, collection: 3167}    
+    template: {name: Collection, collection: 3167}
   Addams Family:
     template: {name: Collection, collection: 11716}
   Air Bud:
-    template: {name: Collection, collection: 97445} 
+    template: {name: Collection, collection: 97445}
   Airplane:
-    template: {name: Collection, collection: 91663}       
+    template: {name: Collection, collection: 91663}
   Aladdin:
     template: {name: Collection, collection: 86027}
   Alex Cross:
-    template: {name: Collection, collection: 142680}    
+    template: {name: Collection, collection: 142680}
   Alice in Wonderland:
     template: {name: Collection, collection: 261307}
   Alien:
@@ -49,7 +49,7 @@ collections:
   Almighty:
     template: {name: Collection, collection: 124949}
   Alpha and Omega:
-    template: {name: Collection, collection: 241729}    
+    template: {name: Collection, collection: 241729}
   Alvin and the Chipmunks:
     template: {name: Collection, collection: 167613}
   The Amazing Spider-Man:
@@ -66,7 +66,7 @@ collections:
   Anaconda:
     template: {name: Collection, collection: 105995, movie: 336560}
   Analyze:
-    template: {name: Collection, collection: 110127}               
+    template: {name: Collection, collection: 110127}
   Anchorman:
     template: {name: Collection, collection: 93791}
   Angels in the ...:
@@ -81,11 +81,11 @@ collections:
   Appleseed:
     template: {name: Collection, collection: "87800, 371526"}
   Arthur:
-    template: {name: Collection, collection: 170754, movie:49012}            
+    template: {name: Collection, collection: 170754, movie:49012}
   Atlantis:
     template: {name: Collection, collection: 100965}
   Atlas Shrugged:
-    template: {name: Collection, collection: 166381}    
+    template: {name: Collection, collection: 166381}
   Attack on Titan:
     template: {name: Collection, collection: 370411}
   Austin Powers:
@@ -117,29 +117,29 @@ collections:
   Batman (Adam West) Animation:
     template: {name: Collection, collection: 626517}
   Batman Beyond:
-    template: {name: Collection, collection: 379475} 
+    template: {name: Collection, collection: 379475}
   Batman Unlimited:
-    template: {name: Collection, collection: 356688}            
+    template: {name: Collection, collection: 356688}
   Son of Batman:
-    template: {name: Collection, collection: 334996}            
+    template: {name: Collection, collection: 334996}
   Superman / Batman (Animated):
-    template: {name: Collection, collection: 290933}            
+    template: {name: Collection, collection: 290933}
   Batman (DCU Animated):
-    template: {name: Collection, collection: 421904}            
+    template: {name: Collection, collection: 421904}
   Batman the Dark Knight Returns:
-    template: {name: Collection, collection: 248534}                
+    template: {name: Collection, collection: 248534}
   Batman The Long Halloween:
-    template: {name: Collection, collection: 785583}                
+    template: {name: Collection, collection: 785583}
   Beauty and the Beast:
     template: {name: Collection, collection: 153010}
   Beethoven:
     template: {name: Collection, collection: 168880}
   Behind Enemy Lines:
-    template: {name: Collection, collection: 98513}  
+    template: {name: Collection, collection: 98513}
   Beverly Hills Cop:
-    template: {name: Collection, collection: 85861}    
+    template: {name: Collection, collection: 85861}
   Big Momma's House:
-    template: {name: Collection, collection: 44979}    
+    template: {name: Collection, collection: 44979}
   Bill & Ted's Most Excellent:
     template: {name: Collection, collection: 91746}
   Black Panther:
@@ -157,7 +157,7 @@ collections:
   Borat Moviefilms:
     template: {name: Collection, collection: 747168}
   Boss Baby:
-    template: {name: Collection, collection: 519457}                    
+    template: {name: Collection, collection: 519457}
   The Bourne Collection:
     template: {name: Collection, collection: 31562}
   The Boy:
@@ -171,7 +171,7 @@ collections:
   Captain America:
     template: {name: Collection, collection: 131295}
   Captain Marvel:
-    template: {name: Collection, collection: 623911}  
+    template: {name: Collection, collection: 623911}
   Carrie:
     template: {name: Collection, collection: 257053}
   Cars:
@@ -185,7 +185,7 @@ collections:
   Cheaper by the Dozen:
     template: {name: Collection, collection: 114783}
   Child's Play:
-    template: {name: Collection, collection: 10455}    
+    template: {name: Collection, collection: 10455}
   The Chronicles of Narnia:
     template: {name: Collection, collection: 420}
   The Chronicles of Riddick:
@@ -207,7 +207,7 @@ collections:
     imdb_list: https://www.imdb.com/list/ls021933730/
     summary: Cloverfield is an American science fiction anthology film series and media franchise created and produced by J. J. Abrams consisting of three films, viral marketing websites linking the films together, and a tie-in manga to the first film titled Cloverfield/Kishin (2008), all set in a shared fictional universe referred to as The Cloververse. 
   Coming to America:
-    template: {name: Collection, collection: 647077}    
+    template: {name: Collection, collection: 647077}
   The Conjuring:
     template: {name: Collection, collection: 313086}
   Cornetto Trilogy:
@@ -215,7 +215,7 @@ collections:
     imdb_list: https://www.imdb.com/list/ls068623110/
     summary: An anthology series of British comedic genre films directed by Edgar Wright, written by Wright and Simon Pegg, produced by Nira Park, and starring Pegg and Nick Frost. The trilogy consists of Shaun of the Dead (2004), Hot Fuzz (2007), and The World's End (2013).
   Crank:
-    template: {name: Collection, collection: 64751}                    
+    template: {name: Collection, collection: 64751}
   Creed:
     template: {name: Collection, collection: 553717}
   Crocodile Dundee:
@@ -237,13 +237,13 @@ collections:
   Death Race (modern):
     template: {name: Collection, collection: 86116}
   Death Race (original):
-    template: {name: Collection, collection: 434533}          
+    template: {name: Collection, collection: 434533}
   The Debt Collector:
     template: {name: Collection, collection: 709271}
   Dennis the Menace:
-    template: {name: Collection, collection: 195441}             
+    template: {name: Collection, collection: 195441}
   Descendants:
-    template: {name: Collection, collection: 466463}      
+    template: {name: Collection, collection: 466463}
   Despicable Me:
     template: {name: Collection, collection: "86066, 544669"}
   Die Hard:
@@ -255,7 +255,7 @@ collections:
   A Dog's Purpose:
     template: {name: Collection, collection: 591028}
   Dr. Dolittle:
-    template: {name: Collection, collection: 3169}                
+    template: {name: Collection, collection: 3169}
   DragonHeart:
     template: {name: Collection, collection: 169452}
   Dumb and Dumber:
@@ -263,22 +263,22 @@ collections:
   Dungeons & Dragons:
     template: {name: Collection, collection: 106498}
   Eddie and the Cruisers:
-    template: {name: Collection, collection: 186102}              
+    template: {name: Collection, collection: 186102}
   El Mariachi!:
-    template: {name: Collection, collection: 9649}    
+    template: {name: Collection, collection: 9649}
   The Emperor's New Groove:
     template: {name: Collection, collection: 178117}
   The Equalizer:
     template: {name: Collection, collection: 523855}
   Ernest P. Worrell:
-    template: {name: Collection, collection: 330555}    
+    template: {name: Collection, collection: 330555}
   Escape From ...:
     template: {name: Collection, collection: 115838}
     name_mapping: Escape From
   Escape Plan:
     template: {name: Collection, collection: 525891}
   Evil Dead:
-    template: {name: Collection, collection: 1960}    
+    template: {name: Collection, collection: 1960}
   Evangelion:
     template: {name: Collection, collection: 210303}
     summary: A Japanese animated film series and a retelling of the original Neon Genesis Evangelion anime television series, produced by Studio Khara. 
@@ -393,7 +393,7 @@ collections:
   Hellboy (Animated):
     template: {name: Collection, collection: 123203}
   Herbie:
-    template: {name: Collection, collection: 12087}    
+    template: {name: Collection, collection: 12087}
   High School Musical:
     template: {name: Collection, collection: 87253}
   Highlander:
@@ -401,15 +401,15 @@ collections:
   Hobbs & Shaw:
     template: {name: Collection, collection: 688042}
   The Hobbit:
-    template: {name: Collection, collection: 121938}    
+    template: {name: Collection, collection: 121938}
   Home Alone:
     template: {name: Collection, collection: 9888}
   Homeward Bound:
-    template: {name: Collection, collection: 43058}                
+    template: {name: Collection, collection: 43058}
   Honey, I Shrunk the Kids:
     template: {name: Collection, collection: 72119}
   Hoodwinked!:
-    template: {name: Collection, collection: 87255}                    
+    template: {name: Collection, collection: 87255}
   Horrible Bosses:
     template: {name: Collection, collection: 280588}
   Hot Tub Time Machine:
@@ -444,9 +444,9 @@ collections:
   It:
     template: {name: Collection, collection: 477962}
   Jack Reacher:
-    template: {name: Collection, collection: 403374}                        
+    template: {name: Collection, collection: 403374}
   Jack Ryan (90s):
-    template: {name: Collection, collection: 192492}    
+    template: {name: Collection, collection: 192492}
   James Bond:
     template: {name: Collection, collection: 645}
   Jaws:
@@ -458,20 +458,20 @@ collections:
     imdb_list: https://www.imdb.com/list/ls086022668/
     summary: Collection of Jeff Dunham's Stand Up Comedy Specials
   Jesse Stone:
-    template: {name: Collection, collection: 59235}    
+    template: {name: Collection, collection: 59235}
   The Jetsons:
-    template: {name: Collection, movie: "36868,44510,17009"}                        
+    template: {name: Collection, movie: "36868,44510,17009"}
     Summary: Meet George Jetson and his quirky family - wife Jane, son Elroy and daughter Judy. Living in the automated, push-button world of the future hasn't made life any easier for the harried husband and father, who gets into one comical misadventure after another!    
   Joe Dirt:
-    template: {name: Collection, collection: 353325}                          
+    template: {name: Collection, collection: 353325}
   John Wick:
     template: {name: Collection, collection: 404609}
   Johnny Tsunami:
     template: {name: Collection, collection: 394316}
   Journey:
-    template: {name: Collection, collection: 605516}                                
+    template: {name: Collection, collection: 605516}
   Joy Ride:
-    template: {name: Collection, collection: 166378}    
+    template: {name: Collection, collection: 166378}
   Jumanji:
     template: {name: Collection, collection: 495527}
   Jump Street:
@@ -493,7 +493,7 @@ collections:
   Kingsman:
     template: {name: Collection, collection: 391860}
   Knives Out:
-    template: {name: Collection, collection: 722971}                                    
+    template: {name: Collection, collection: 722971}
   Kung Fu Panda:
     template: {name: Collection, collection: 77816}
   Lady and the Tramp:
@@ -505,7 +505,7 @@ collections:
   Legally Blonde:
     template: {name: Collection, collection: 86024}
   Leprechaun:
-    template: {name: Collection, collection: 19285}    
+    template: {name: Collection, collection: 19285}
   LEGO DC Comics Super Heroes:
     template: {name: Collection, collection: 386162}
   The Lego Movie:
@@ -513,7 +513,7 @@ collections:
   Lego Star Wars:
     template: {name: Collection, collection: 302331}
   Lego Batman:
-    template: {name: Collection, collection: 696630}           
+    template: {name: Collection, collection: 696630}
   Lethal Weapon:
     template: {name: Collection, collection: 945}
   Lilo & Stitch:
@@ -523,19 +523,19 @@ collections:
   The Little Mermaid:
     template: {name: Collection, collection: 33085}
   Look Who's Talking:
-    template: {name: Collection, collection: 9521}    
+    template: {name: Collection, collection: 9521}
   The Lord of the Rings:
     template: {name: Collection, collection: 119}
   The Lord of the Rings (Animated):
     template: {name: Collection, collection: 141290, movie: 123}
   Machete:
-    template: {name: Collection, collection: 210006}        
+    template: {name: Collection, collection: 210006}
   Mad Max:
     template: {name: Collection, collection: 8945}
   Madagascar:
     template: {name: Collection, collection: 14740, movie: "161143, 25472, 270946"}
   Major League:
-    template: {name: Collection, collection: 97771}           
+    template: {name: Collection, collection: 97771}
   Maleficent:
     template: {name: Collection, collection: 531331}
   Mall Cop:
@@ -545,9 +545,9 @@ collections:
     imdb_list: https://www.imdb.com/list/ls023916334/
     summary: An Italian film series consisting of three Spaghetti Western films directed by Sergio Leone, and starring Clint Eastwood.
   The Mark:
-    template: {name: Collection, collection: 324458}               
+    template: {name: Collection, collection: 324458}
   Marley and Me:
-    template: {name: Collection, collection: 230532}                   
+    template: {name: Collection, collection: 230532}
   Marvel Rising:
     template: {name: Collection, collection: 627234}
   Marx Brothers:
@@ -561,7 +561,7 @@ collections:
   The Matrix:
     template: {name: Collection, collection: 2344}
   Max:
-    template: {name: Collection, collection: 456778}                       
+    template: {name: Collection, collection: 456778}
   Maya the Bee:
     template: {name: Collection, collection: 522250}
   The Maze Runner:
@@ -575,7 +575,7 @@ collections:
   The Mighty Ducks:
     template: {name: Collection, collection: 10709}
   Miss Congeniality:
-    template: {name: Collection, collection: 93220}                   
+    template: {name: Collection, collection: 93220}
   "Mission: Impossible":
     template: {name: Collection, collection: 87359}
     name_mapping: Mission Impossible
@@ -596,7 +596,7 @@ collections:
   The Muppet:
     template: {name: Collection, collection: 256377}
   Naked Gun:
-    template: {name: Collection, collection: 37139}    
+    template: {name: Collection, collection: 37139}
   National Treasure:
     template: {name: Collection, collection: 52984}
   Neighbors:
@@ -614,7 +614,7 @@ collections:
   Oh God!:
     template: {name: Collection, collection: 221308}
   The Omen:
-    template: {name: Collection, collection: 10919}        
+    template: {name: Collection, collection: 10919}
   Ong Bak:
     template: {name: Collection, collection: 94589}
   Oz:
@@ -624,11 +624,11 @@ collections:
   Paddington:
     template: {name: Collection, collection: 488924}
   The Parent Trap:
-    template: {name: Collection, movie: "19186, 51881, 64183, 92682"}     
+    template: {name: Collection, movie: "19186, 51881, 64183, 92682"}
   Parasyte:
     template: {name: Collection, collection: 385386}
   Pee-Wee's Collection:
-    template: {name: Collection, collection: 179244}      
+    template: {name: Collection, collection: 179244}
   Percy Jackson:
     template: {name: Collection, collection: 179919}
   Pet Sematary:
@@ -638,7 +638,7 @@ collections:
   The Pink Panther (Original):
     template: {name: Collection, collection: 937}
   The Pink Panther (Steve Martin):
-    template: {name: Collection, collection: 130440}        
+    template: {name: Collection, collection: 130440}
   Pirates of the Caribbean:
     template: {name: Collection, collection: 295}
   Pitch Perfect:
@@ -650,7 +650,7 @@ collections:
   Pocahontas:
     template: {name: Collection, collection: 136214}
   "Pokémon: XY":
-    template: {name: Collection, collection:661029}
+    template: {name: Collection, collection: 661029}
   "Pokémon: Best Wishes!":
     template: {name: Collection, collection: 661028}
   "Pokémon: Alternate Continuity":
@@ -670,7 +670,7 @@ collections:
   The Princess Diaries:
     template: {name: Collection, collection: 107674}
   The Princess Switch:
-    template: {name: Collection, collection: "713330"}   
+    template: {name: Collection, collection: "713330"}
   The Purge:
     template: {name: Collection, collection: 256322}
   Quarantine:
@@ -680,7 +680,7 @@ collections:
   Red Cliff:
     template: {name: Collection, collection: 96677}
   Red:
-    template: {name: Collection, collection: 163902}    
+    template: {name: Collection, collection: 163902}
   Rent:
     template: {name: Collection}
     tmdb_list_details: 7072241
@@ -692,7 +692,7 @@ collections:
     template: {name: Collection, collection: 133352}
     name_mapping: Resident Evil Biohazard
   Revelation Road:
-    template: {name: Collection, collection: 257090}    
+    template: {name: Collection, collection: 257090}
   Ride Along:
     template: {name: Collection, collection: 376650}
   Rio:
@@ -740,15 +740,15 @@ collections:
   Silent Hill:
     template: {name: Collection, collection: 64748}
   Sin City:
-    template: {name: Collection, collection: 135179}        
+    template: {name: Collection, collection: 135179}
   Sister Act:
-    template: {name: Collection, collection: 103573}        
+    template: {name: Collection, collection: 103573}
   Slap Shot:
     template: {name: Collection, collection: 261526}
   Smokey and the bandit:
-    template: {name: Collection, collection: "87220"}    
+    template: {name: Collection, collection: "87220"}
   Bandit Made for TV Movies:
-    template: {name: Collection, collection: "398758"}        
+    template: {name: Collection, collection: "398758"}
   The Smurfs:
     template: {name: Collection, collection: 134897}
   Spider-Man (Avengers):
@@ -768,7 +768,7 @@ collections:
     name_mapping: Star Trek The Original Series 
   Star Trek Movies:
     template: {name: Collection, collection: "151	, 115570, 115575"}
-    summary: "A list of Star Trek Movies across universes"    
+    summary: "A list of Star Trek Movies across universes"
   Step Up:
     template: {name: Collection, collection: 86092}
   Street Fighter:
@@ -796,7 +796,7 @@ collections:
   Texas Chainsaw Massacre:
     template: {name: Collection, collection: "111751, 425175"}
   A Thief in the Night:
-    template: {name: Collection, collection: 308644}                
+    template: {name: Collection, collection: 308644}
   Thor:
     template: {name: Collection, collection: 131296}
   The Three Stooges:
@@ -805,7 +805,7 @@ collections:
     tmdb_movie: 76489
     summary: The Three Stooges were an American vaudeville and comedy team active from 1922 until 1970, best known for their 190 short subject films by Columbia Pictures that have been regularly airing on television since 1958.
   Thunder in Paradise:
-    template: {name: Collection, collection: 425881}    
+    template: {name: Collection, collection: 425881}
   Tinker Bell:
     template: {name: Collection, collection: 315595}
   Tokyo Ghoul:
@@ -816,7 +816,7 @@ collections:
     summary: Tom and Jerry's animated feature-length films based on the series.
   Tom Clancy Movies:
     template: {name: Collection, movie: "567189, 73375, 137094, 4614, 65398, 9869, 9331, 54373, 1669"}
-    summary: Movies based off of the various works of Tom Clancy    
+    summary: Movies based off of the various works of Tom Clancy
   Tomb Raider:
     template: {name: Collection, collection: "2467, 621142"}
   Tomie:
@@ -838,17 +838,17 @@ collections:
   Twilight:
     template: {name: Collection, collection: 33514}
   Tyler Perry's Madea:
-    template: {name: Collection, collection: "534673, 501909"}         
+    template: {name: Collection, collection: "534673, 501909"}
   Unbreakable:
     template: {name: Collection}
     imdb_list: https://www.imdb.com/list/ls022101006/
     summary: The Unbreakable trilogy, officially known as the Eastrail 177 Trilogy, is an American superhero thriller and psychological horror film series. The films were written, produced, and directed by M. Night Shyamalan. The trilogy consists of Unbreakable (2000), Split (2016), and Glass (2019).
   Under Siege:
-    template: {name: Collection, collection: 112399}    
+    template: {name: Collection, collection: 112399}
   Underworld:
     template: {name: Collection, collection: 2326}
   Vacation:
-    template: {name: Collection, collection: 108693}    
+    template: {name: Collection, collection: 108693}
   Viy:
     template: {name: Collection, collection: 428046}
   Wall Street:
@@ -858,15 +858,15 @@ collections:
   Wayne's World:
     template: {name: Collection, collection: 8979}
   Witch Mountain:
-    template: {name: Collection, collection: 90348}                
+    template: {name: Collection, collection: 90348}
   Wonder Woman:
     template: {name: Collection, collection: 468552}
   Wolverine:
-    template: {name: Collection, collection: 453993}    
+    template: {name: Collection, collection: 453993}
   Wreck-It Ralph:
     template: {name: Collection, collection: 404825}
   X-Men:
-    template: {name: Collection, collection: 748}  
+    template: {name: Collection, collection: 748}
   xXx:
     template: {name: Collection, collection: 52785}
   Zenon:

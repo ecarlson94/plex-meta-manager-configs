@@ -1,23 +1,17 @@
 # https://github.com/meisnate12/Plex-Meta-Manager                                      
-                                      ######################################################
-                                      #                Decade Collections                  #
-                                      ######################################################
-###########################
-#        Templates        #
-###########################
+######################################################
+#                Decade Collections                  #
+######################################################
 templates:
-    Decade:
-    # I was not able to find any posters i liked for decades 00 and 10, so i did not use the template. 
-        smart_filter:
-          any:
-            decade: <<year>>
-        url_poster: <<poster>>
-        sort_title: +++_<<collection_name>>
-        collection_order: alpha        
+  Decade:
+  # I was not able to find any posters i liked for decades 00 and 10, so i did not use the template. 
+    smart_filter:
+      any:
+        decade: <<year>>
+    url_poster: <<poster>>
+    sort_title: +++_<<collection_name>>
+    collection_order: alpha
 collections:
-###########################
-#    Decade Collections   #
-###########################
   30's Movies:
     template: {name: Decade, year: 1930, poster: https://theposterdb.com/api/assets/105675}
   40's Movies:
@@ -33,12 +27,14 @@ collections:
   90's Movies:
     template: {name: Decade, year: 1990, poster: https://theposterdb.com/api/assets/105334}
   00's Movies:
-    plex_search:
-      decade: 2000
+    smart_filter:
+      any:
+        decade: 2000
     sort_title: +++_Decade
     collection_order: alpha
   10's Movies:
-    plex_search:
-      decade: 2010
+    smart_filter:
+      any:
+        decade: 2010
     sort_title: +++_Decade
     collection_order: alpha
