@@ -13,12 +13,6 @@ templates:
         url_poster: <<poster>>
         sort_title: +++_<<collection_name>>
         collection_order: alpha        
-    Best of:
-        trakt_list: https://trakt.tv/users/lish408/lists/rotten-tomatoes-best-of-<<year>>
-        sort_title: +1_Best of <<year>>
-        sync_mode: sync
-        summary: Rotten Tomatoes Best Movies of <<year>>
-        smart_label: audience_rating.desc
 collections:
 ###########################
 #    Decade Collections   #
@@ -47,19 +41,3 @@ collections:
       decade: 2010
     sort_title: +++_Decade
     collection_order: alpha
-  Best of 2014:
-    template: { name: Best of, year: 2014 }
-  Best of 2015:
-    template: { name: Best of, year: 2015 }
-  Best of 2016:
-    template: { name: Best of, year: 2016 }
-  Best of 2017:
-    template: { name: Best of, year: 2017 }
-  Best of 2018:
-    template: { name: Best of, year: 2018 }
-  Best of 2019:
-    template: { name: Best of, year: 2019 }
-  Best of 2020:
-    template: { name: Best of, year: 2020 }
-  Best of 2021:
-    template: { name: Best of, year: 2021 }
