@@ -8,8 +8,9 @@
 templates:
     Decade:
     # I was not able to find any posters i liked for decades 00 and 10, so i did not use the template. 
-        plex_search:
-          decade: <<year>>
+        smart_filter:
+          any:
+            decade: <<year>>
         url_poster: <<poster>>
         sort_title: +++_<<collection_name>>
         collection_order: alpha        
