@@ -7,12 +7,9 @@
 ###########################
 templates:
   Genre:
-    optional:
-      - second_genre
     plex_all: true
     filters:
       genre: <<genre>>
-      genre: <<second_genre>>
     url_poster: <<poster>>
     sort_title: +++++++_<<collection_name>>
     collection_order: alpha
@@ -28,10 +25,10 @@ collections:
 #    Genre Collections    #
 ###########################
   Action:
-    template: {name: Genre, genre: Action, second_genre: Action/Adventure, poster: https://theposterdb.com/api/assets/52018}
+    template: {name: Genre, genre: "Action,Action/Adventure", poster: https://theposterdb.com/api/assets/52018}
     summary: Action film is a genre wherein physical action takes precedence in the storytelling. The film will often have continuous motion and action including physical stunts, chases, fights, battles, and races. The story usually revolves around a hero that has a goal, but is facing incredible odds to obtain it.
   Adventure:
-    template: {name: Genre, genre: Adventure, second_genre: Action/Adventure, poster: https://theposterdb.com/api/assets/52218}
+    template: {name: Genre, genre: "Adventure,Action/Adventure", poster: https://theposterdb.com/api/assets/52218}
     summary: Adventure film is a genre that revolves around the conquests and explorations of a protagonist. The purpose of the conquest can be to retrieve a person or treasure, but often the main focus is simply the pursuit of the unknown. These films generally take place in exotic locations and play on historical myths. Adventure films incorporate suspenseful puzzles and intricate obstacles that the protagonist must overcome in order to achieve the end goal.  
   Animation:
     template: {name: Genre, genre: Animation, poster: https://theposterdb.com/api/assets/120090}
