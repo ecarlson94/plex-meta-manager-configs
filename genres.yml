@@ -37,7 +37,7 @@ collections:
     template: {name: Genre, genre: Animation, poster: https://theposterdb.com/api/assets/120090}
     summary: Animated film is a collection of illustrations that are photographed frame-by-frame and then played in a quick succession. Since its inception, animation has had a creative and imaginative tendency. Being able to bring animals and objects to life, this genre has catered towards fairy tales and children’s stories. However, animation has long been a genre enjoyed by all ages. As of recent, there has even been an influx of animation geared towards adults. Animation is commonly thought of as a technique, thus it’s ability to span over many different genres.
   Anime:
-    template: {name: Genre, genre: Anime, poster: https://theposterdb.com/api/assets/126743}
+    template: {name: Genre, genre: Anime, poster: https://theposterdb.com/api/assets/117292}
     summary: A collection of Anime movies
   Biography:
     template: {name: Genre, genre: Biography, poster: https://theposterdb.com/api/assets/60369}
