@@ -7,16 +7,15 @@
 ###########################
 templates:
   Genre:
-    plex_all: true
-    filters:
+    plex_search:
       genre: <<genre>>
     url_poster: <<poster>>
     sort_title: +++++++_<<collection_name>>
-    smart_label: random
+    smart_label: release.desc
   Holiday:
     url_poster: <<poster>>
     sort_title: +++++++_<<collection_name>>
-    smart_label: random
+    smart_label: release.desc
 
 collections:
 ###########################
