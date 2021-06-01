@@ -26,3 +26,5 @@ collections:
   Slice Of Life:
     template: { name: Genre, poster: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21827-10F6m50H4GJK.png }
     summary: Minami-ke, a slice of life anime. The slice of life category of story is a story that portrays a "cut-out" sequence of events in a character's life. It may or may not contain any plot progress and little character development, and often has no exposition, conflict, or dénouement, with an open ending.
+  Psychological:
+    template: { name: Genre, poster: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-lawCwhzhi96X.jpg }
