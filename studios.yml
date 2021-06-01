@@ -13,37 +13,7 @@ templates:
     smart_label: originally_available.desc
 collections:
   Marvel Studios:
-    template: { name: Studio, company: 420 }
-    summary: Marvel Studios is known for the production of the Marvel Cinematic Universe films, based on characters that appear in Marvel Comics publications.
-  Universal Pictures:
-    template: { name: Studio, company: 33 }
-    summary: Universal Pictures is an American film studio owned by Comcast through the NBCUniversal Film and Entertainment division of its wholly owned subsidiary NBCUniversal. 
-  20th Century Studios:
-    template: { name: Studio, company: 127928 }
-    summary: 20th Century Studios is the Disney rebrand of 20th century Fox studios, in 2020.  
-  20th Century Fox:
-    template: { name: Studio, company: 25 }
-    summary: 20th Century Fox was formed from the merger of the Fox Film Corporation and the original 20th Century Pictures in 1935. In 1985, the studio became known as 20th Century Fox after being acquired by News Corporation, which was split and succeeded by 21st Century Fox in 2013.
-  20th Century Animation:
-    template: { name: Studio, company: 141821 }
-    summary: 20th Century Animation is the Disney rebrand of the animation arm of 20th Century Fox studios in 2020.     
-  Columbia Tri-Star Motion Picture Group:
-    template: { name: Studio, company: 10202 }
-    summary: The Sony Pictures Entertainment Motion Picture Group is a division of Sony Pictures Entertainment to manage its motion picture operations. It was launched in 1998 by integrating the businesses of Columbia Pictures Industries, Inc. and TriStar Pictures, Inc.    
-  Paramount Pictures:
-    template: { name: Studio, company: 4 }
-    summary: Paramount Pictures Corporation is an American film and television production and distribution company and a subsidiary of ViacomCBS. It is the fifth oldest film studio in the world, the second oldest film studio in the United States, and the sole member of the "Big Five" film studios still located in the city limits of Los Angeles.
-  Columbia Pictures:
-    template: { name: Studio, company: 5 }
-    summary: Columbia Pictures Industries, Inc. is an American film studio and production company that is a member of the Sony Pictures Motion Picture Group, a division of Sony Entertainment's Sony Pictures Entertainment, itself a subsidiary of the Japanese multinational conglomerate Sony.
-  Sony Pictures Studios:
-    template: { name: Studio, company: 34 }
-    summary: The Sony Pictures Studios is an American television and film studio complex located in Culver City, California at 10202 West Washington Boulevard and bounded by Culver Boulevard, Washington Boulevard, Overland Avenue and Madison Avenue. Founded in 1912, the facility is currently owned by Sony Pictures and houses the division's film studios, such as Columbia Pictures, TriStar Pictures, and Screen Gems. The complex was the original studios of Metro-Goldwyn-Mayer from 1924 to 1986 and Lorimar-Telepictures from 1986 to 1989.
-  New Line Cinema:
-    template: { name: Studio, company: 12 }
-    summary: New Line Productions, Inc., doing business as New Line Cinema, is an American film production studio and a label of the Warner Bros. Pictures Group division of Warner Bros. Entertainment. It was founded in 1967 by Robert Shaye as an independent film distribution company, later becoming a film studio. It was acquired by Turner Broadcasting System in 1994; Turner later merged with Time Warner in 1996, and New Line was merged with Warner Bros. Pictures in 2008. New Line continues to distribute its films albeit as a part of Warner Bros. Pictures, rather than as a separate media company alongside the latter.
-  Metro-Goldwyn-Mayer:
-    template: { name: Studio, company: 21 }
+    template: { name: Studio, company: }
     summary: Metro-Goldwyn-Mayer Studios Inc.  is an American media company, involved primarily in the production and distribution of feature films and television programs. One of the world's oldest film studios, MGM's corporate headquarters are located in Beverly Hills, California.
   Lionsgate:
     template: { name: Studio, company: 1632 }
