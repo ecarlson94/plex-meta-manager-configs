@@ -13,7 +13,7 @@ templates:
     smart_label: originally_available.desc
 collections:
   Marvel Studios:
-    template: { name: Studio, company: }
+    template: { name: Studio, company: 420 }
     summary: Metro-Goldwyn-Mayer Studios Inc.  is an American media company, involved primarily in the production and distribution of feature films and television programs. One of the world's oldest film studios, MGM's corporate headquarters are located in Beverly Hills, California.
   Lionsgate:
     template: { name: Studio, company: 1632 }
