@@ -12,12 +12,10 @@ templates:
       genre: <<genre>>
     url_poster: <<poster>>
     sort_title: +++++++_<<collection_name>>
-    collection_order: alpha
     smart_label: random
   Holiday:
     url_poster: <<poster>>
     sort_title: +++++++_<<collection_name>>
-    collection_order: release
     smart_label: random
 
 collections:

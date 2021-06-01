@@ -27,13 +27,13 @@ collections:
   90's Movies:
     template: {name: Decade, year: 1990, poster: https://theposterdb.com/api/assets/105334}
   00's Movies:
-    smart_filter:
+    plex_search:
       any:
         decade: 2000
     sort_title: +++_Decade
     collection_order: alpha
   10's Movies:
-    smart_filter:
+    plex_search:
       any:
         decade: 2010
     sort_title: +++_Decade
