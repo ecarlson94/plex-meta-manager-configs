@@ -119,7 +119,7 @@ collections:
       limit: 200
     - url: https://www.imdb.com/search/title/?title_type=feature&release_date=1990-01-01,&user_rating=5.0,10.0&num_votes=100000,&genres=sport&sort=user_rating,desc
       limit: 200
-    summary: A Sport Film revolves around a sport setting, event, or an athlete. Often, these films will center on a single sporting event that carries significant importance. Sports films traditionally have a simple plot that builds up to the significant sporting event. This genre is known for incorporating film techniques to build anticipation and intensity. Sport films have a large range of sub-genres, from comedies to dramas, and are more likely than other genres to be based true-life events.
+    summary: Dodge, duck, dip, dive, and dodge.
   Stand Up Comedy:
     template: {name: Genre, poster: https://theposterdb.com/api/assets/49137}
     imdb_list:
