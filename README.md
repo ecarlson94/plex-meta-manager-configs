@@ -1,2 +1,2 @@
 # plex-meta-manager-configs
-Set of Plex Meta Manager Configs for auto collections
+Set of configuration files for [Plex Meta Manager](https://github.com/meisnate12/Plex-Meta-Manager)
