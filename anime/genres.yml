@@ -1,9 +1,13 @@
 templates:
   Genre:
-    smart_filter:
-      any:
-        collection: Anime
     anilist_genre:
+      genre: <<collection_name>>
+      sort_by: popular
+    sort_title: +2_<<collection_name>>
+    sync_mode: sync
+    url_poster: <<poster>>
+  Tag:
+    anilist_tag:
       genre: <<collection_name>>
       sort_by: popular
     sort_title: +2_<<collection_name>>
@@ -12,10 +16,10 @@ templates:
 
 collections:
   Isekai:
-    template: { name: Genre, poster: https://theposterdb.com/api/assets/23086 }
+    template: { name: Tag, poster: https://theposterdb.com/api/assets/23086 }
     summary: Isekai is a Japanese genre of light novels, manga, anime and video games that revolve around a person who is transported to and has to survive in another world, such as a fantasy world, virtual world or parallel universe.
   Shounen:
-    template: { name: Genre, poster: https://theposterdb.com/api/assets/126754 }
+    template: { name: Tag, poster: https://theposterdb.com/api/assets/126754 }
     summary: A genre of Japanese comics and animated films aimed primarily at a young male audience, typically characterized by action-filled plots.
   Mecha:
     template: { name: Genre, poster: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1575-ZJYlg8yjvMKI.jpg }

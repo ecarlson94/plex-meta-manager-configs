@@ -9,6 +9,9 @@ templates:
   Genre:
     plex_search:
       genre: <<genre>>
+    anilist_genre:
+      genre: <<collection_name>>
+      sort_by: popular
     url_poster: <<poster>>
     sort_title: +++++++_<<collection_name>>
     smart_label: release.desc
@@ -52,7 +55,7 @@ collections:
     template: {name: Genre, genre: Family, poster: https://theposterdb.com/api/assets/53059}
     summary: Fantasy film is a genre that incorporates imaginative and fantastic themes. These themes usually involve magic, supernatural events, or fantasy worlds. Although it is its own distinct genre, these films can overlap into the horror and science fiction genres. Unlike science fiction, a fantasy film does not need to be rooted in fact. This element allows the audience to be transported into a new and unique world. Often, these films center on an ordinary hero in an extraordinary situation.
   Fantasy:
-    template: {name: Genre, genre: Animation, poster: https://theposterdb.com/api/assets/51476}
+    template: {name: Genre, genre: "Fantasy,Sci-Fi & Fantasy", poster: https://theposterdb.com/api/assets/51476}
     imdb_list:
     - url: https://www.imdb.com/search/title/?title_type=feature&release_date=1990-01-01,&user_rating=5.0,10.0&num_votes=100000,&genres=fantasy
       limit: 100
@@ -100,14 +103,14 @@ collections:
   Romance:
     template: {name: Genre, genre: Romance, poster: https://theposterdb.com/api/assets/53062}
     summary: "Romance film can be defined as a genre wherein the plot revolves around the love between two protagonists. This genre usually has a theme that explores an issue within love, including but not limited to: love at first sight, forbidden love, love triangles, and sacrificial love. The tone of Romance film can vary greatly. Whether the end is happy or tragic, Romance film aims to evoke strong emotions in the audience."
-  Science Fiction:
-    template: {name: Genre, genre: Science Fiction, poster: https://theposterdb.com/api/assets/51772}
+  Sci-Fi:
+    template: {name: Genre, genre: "Science Fiction,Sci-Fi,Sci-Fi & Fantasy", poster: https://theposterdb.com/api/assets/51772}
     summary: Science Fiction (Sci-Fi) film is a genre that incorporates hypothetical, science-based themes into the plot of the film. Often, this genre incorporates futuristic elements and technologies to explore social, political, and philosophical issues. The film itself is usually set in the future, either on earth or in space. Traditionally, a Science Fiction film will incorporate heroes, villains, unexplored locations, fantastical quests, and advanced technology.
   Short:
     template: {name: Genre, genre: Short, poster: https://theposterdb.com/api/assets/53063}
     summary: A collection of Short movies
-  Sport:
-    template: {name: Genre, genre: Sport, poster: https://theposterdb.com/api/assets/60371}
+  Sports:
+    template: {name: Genre, genre: "Sport,Sports", poster: https://theposterdb.com/api/assets/60371}
     imdb_list:
     - url: https://www.imdb.com/search/title/?title_type=feature&release_date=1990-01-01,&user_rating=5.0,10.0&num_votes=100000,&genres=sport
       limit: 200
