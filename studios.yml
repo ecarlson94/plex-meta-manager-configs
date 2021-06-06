@@ -8,9 +8,9 @@ templates:
     optional:
       - company
     tmdb_company: <<company>>
-    sort_title: +2_<<collection_name>>
+    sort_title: +5_<<collection_name>>
     sync_mode: sync
-    smart_label: release.desc
+    collection_order: alpha
 collections:
   Marvel Studios:
     template: { name: Studio, company: 420 }

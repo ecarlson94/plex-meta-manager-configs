@@ -13,12 +13,12 @@ templates:
       genre: <<collection_name>>
       sort_by: popular
     url_poster: <<poster>>
-    sort_title: +++++++_<<collection_name>>
-    smart_label: release.desc
+    sort_title: +2_<<collection_name>>
+    collection_order: alpha
   Holiday:
     url_poster: <<poster>>
-    sort_title: +++++++_<<collection_name>>
-    smart_label: release.desc
+    sort_title: +2_<<collection_name>>
+    collection_order: alpha
 
 collections:
 ###########################
