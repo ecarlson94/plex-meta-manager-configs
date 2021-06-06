@@ -3,7 +3,7 @@ templates:
     optional:
       - network
     tmdb_network: <<network>>
-    sort_title: +2_<<collection_name>>
+    sort_title: +4_<<collection_name>>
     url_poster: <<poster>>
     sync_mode: sync
 
