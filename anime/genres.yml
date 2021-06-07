@@ -1,15 +1,19 @@
 templates:
   Genre:
-    anilist_genre:
+    default:
       genre: <<collection_name>>
+    anilist_genre:
+      genre: <<genre>>
       sort_by: popular
     sort_title: +2_<<collection_name>>
     sync_mode: sync
     url_poster: <<poster>>
     collection_order: alpha
   Tag:
-    anilist_tag:
+    default:
       tag: <<collection_name>>
+    anilist_tag:
+      tag: <<tag>>
       sort_by: popular
     sort_title: +2_<<collection_name>>
     sync_mode: sync
@@ -17,32 +21,77 @@ templates:
     collection_order: alpha
 
 collections:
+  Action:
+    template: {name: Genre, poster: https://theposterdb.com/api/assets/52018}
+    summary: Action film is a genre wherein physical action takes precedence in the storytelling. The film will often have continuous motion and action including physical stunts, chases, fights, battles, and races. The story usually revolves around a hero that has a goal, but is facing incredible odds to obtain it.
+  Adventure:
+    template: {name: Genre, poster: https://theposterdb.com/api/assets/52218}
+    summary: Adventure film is a genre that revolves around the conquests and explorations of a protagonist. The purpose of the conquest can be to retrieve a person or treasure, but often the main focus is simply the pursuit of the unknown. These films generally take place in exotic locations and play on historical myths. Adventure films incorporate suspenseful puzzles and intricate obstacles that the protagonist must overcome in order to achieve the end goal.  
+  Comedy:
+    template: {name: Genre, poster: https://theposterdb.com/api/assets/51397}
+    summary: Comedy is a genre of film that uses humor as a driving force. The aim of a comedy film is to illicit laughter from the audience through entertaining stories and characters. Although the comedy film may take on some serious material, most have a happy ending. Comedy film has the tendency to become a hybrid sub-genre because humor can be incorporated into many other genres. Comedies are more likely than other films to fall back on the success and popularity of an individual star.
+  Crime:
+    template: {name: Tag, poster: https://theposterdb.com/api/assets/53057}
+    summary: Crime film is a genre that revolves around the action of a criminal mastermind. A Crime film will often revolve around the criminal himself, chronicling his rise and fall. Some Crime films will have a storyline that follows the criminal's victim, yet others follow the person in pursuit of the criminal. This genre tends to be fast paced with an air of mystery – this mystery can come from the plot or from the characters themselves.
+  Drama:
+    template: {name: Genre, poster: https://theposterdb.com/api/assets/52016}
+    summary: Drama film is a genre that relies on the emotional and relational development of realistic characters. While Drama film relies heavily on this kind of development, dramatic themes play a large role in the plot as well. Often, these dramatic themes are taken from intense, real life issues. Whether heroes or heroines are facing a conflict from the outside or a conflict within themselves, Drama film aims to tell an honest story of human struggles.
   Ecchi:
     template: { name: Genre, poster: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11617-nmxMU9Zh3H5R.jpg }
     summary: Ecchi is an often used slang term in the Japanese language for playfully sexual actions. As an adjective, it is used with the meaning of "sexy", "dirty" or "naughty"; as a verb, ecchi suru means “to have sex” or, as a noun, to describe someone of lascivious behavior.
+  E-Sports:
+    template: {name: Genre, poster: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98861-MMwQxW1S8WkF.jpg}
+    summary: Virtually dodge, virtually duck, virtually dip, virtually dive, and virtually dodge.
+  Fantasy:
+    template: {name: Genre, poster: https://theposterdb.com/api/assets/51476}
+    summary: Fantasy film is a genre that incorporates imaginative and fantastic themes. These themes usually involve magic, supernatural events, or fantasy worlds. Although it is its own distinct genre, these films can overlap into the horror and science fiction genres. Unlike science fiction, a fantasy film does not need to be rooted in fact. This element allows the audience to be transported into a new and unique world. Often, these films center on an ordinary hero in an extraordinary situation.
+  Gangster:
+    template: {name: Tag, tag: Gangs, poster: https://theposterdb.com/api/assets/62561}
+    summary: Gangster film is a sub-genre of crime films that center on organized crime or the mafia. Often the plot revolves around the rise and fall of an organized crime leader. Many Gangster films explore the destructive nature of organized crime, while others attempt to show the humanity of the individual characters.
   Harem:
     template: { name: Tag, poster: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20920-3x2KtyeYQmaR.jpg }
     summary: Harem is a genre of light novels, manga, anime, hentai, and video games originating in Japan in the 1970s but exploding late 1980s and 1990s with dating simulator games and focused on polygynous or polyandrous relationships, where a protagonist is surrounded by three or more androphilic/gynephilic love interests or sexual partners.
   Henshin:
     template: { name: Genre, poster: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-m5ZMNtFioc7j.png }
     summary: Henshin (変身, henshin ?) is the Japanese word for "transformation," literally meaning, "to change or transform the body." This word is primarily used in manga, anime, and tokusatsu dramas for when a character transforms into a superhero.
+  Horror:
+    template: {name: Genre, poster: https://theposterdb.com/api/assets/51475}
+    summary: Horror film is a genre that aims to create a sense of fear, panic, alarm, and dread for the audience. These films are often unsettling and rely on scaring the audience through a portrayal of their worst fears and nightmares. Horror films usually center on the arrival of an evil force, person, or event. Many Horror films include mythical creatures such as ghosts, vampires, and zombies. Traditionally, Horror films incorporate a large amount of violence and gore into the plot. Though it has its own style, Horror film often overlaps into Fantasy, Thriller, and Science-Fiction genres.
   Isekai:
     template: { name: Tag, poster: https://theposterdb.com/api/assets/23086 }
     summary: Isekai is a Japanese genre of light novels, manga, anime and video games that revolve around a person who is transported to and has to survive in another world, such as a fantasy world, virtual world or parallel universe.
   Josei:
     template: { name: Tag, poster: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105807-cq1TUGWJmvRE.jpg }
     summary: Josei manga are Japanese comics catered specifically to women's interests, and marketed towards older teenage girls and adult women demographics who are able to read kanji without the aid of furigana.
+  Martial Arts:
+    template: {name: Genre, poster: https://theposterdb.com/api/assets/51773}
+    summary: Martial Arts film is a sub-genre of action films that feature numerous martial arts combat between characters. These combats are usually the films' primary appeal and entertainment value, and often are a method of storytelling and character expression and development. Martial Arts are frequently featured in training scenes and other sequences in addition to fights. Martial Arts films commonly include other types of action, such as hand-to-hand combat, stuntwork, chases, and gunfights.  
   Mahou Shoujo:
     template: { name: Genre, poster: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx530-I0XN6WzeBtAg.jpg }
     summary: Magical girl is a subgenre of Japanese fantasy media centered around young girls who possess magical abilities, which they typically use through an ideal alter ego into which they can transform.
   Mecha:
     template: { name: Genre, poster: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1575-ZJYlg8yjvMKI.jpg }
     summary: The term mecha may refer to both scientific ideas and science fiction genres that center on giant robots or machines controlled by people. Mechas are typically depicted as humanoid mobile robots.
+  Music:
+    template: {name: Genre, poster: https://theposterdb.com/api/assets/51398}
+    summary: Music film is genre that revolves around music being an integral part of the characters lives.
+  Mystery:
+    template: {name: Genre, poster: https://theposterdb.com/api/assets/53060}
+    summary: A Mystery film centers on a person of authority, usually a detective, that is trying to solve a mysterious crime. The main protagonist uses clues, investigation, and logical reasoning. The biggest element in these films is a sense of “whodunit” suspense, usually created through visual cues and unusual plot twists.
+  Pandemic:
+    template: {name: Genre, poster: https://theposterdb.com/api/assets/55837}
+    summary: A Pandemic film resolves around widespread viruses, plagues, and diseases.
   Psychological:
     template: { name: Genre, poster: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-lawCwhzhi96X.jpg }
+  Romance:
+    template: {name: Genre, poster: https://theposterdb.com/api/assets/53062}
+    summary: "Romance film can be defined as a genre wherein the plot revolves around the love between two protagonists. This genre usually has a theme that explores an issue within love, including but not limited to: love at first sight, forbidden love, love triangles, and sacrificial love. The tone of Romance film can vary greatly. Whether the end is happy or tragic, Romance film aims to evoke strong emotions in the audience."
   Reverse Harem:
     template: { name: Tag, poster: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120-WkFM9hyYxIDm.jpg }
     summary: A genre in manga and anime where a single (often ordinary) girl is liked and followed by a bunch of handsome men (3 or more) who are all madly in love with her. The girl often cannot pick which guy she should go out with and remains indecisive.
+  Sci-Fi:
+    template: {name: Genre, poster: https://theposterdb.com/api/assets/51772}
+    summary: Science Fiction (Sci-Fi) film is a genre that incorporates hypothetical, science-based themes into the plot of the film. Often, this genre incorporates futuristic elements and technologies to explore social, political, and philosophical issues. The film itself is usually set in the future, either on earth or in space. Traditionally, a Science Fiction film will incorporate heroes, villains, unexplored locations, fantastical quests, and advanced technology.
   Seinen:
     template: { name: Tag, poster: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20605-fmnHdfurM7m6.jpg }
     summary: The word “seinen” means “youth” in Japanese, but Seinen anime and manga are those targeting young adult male audiences. The term usually describes the marketing practice and certain characteristics typically associated with a young male demographic (or in some cases older teens or men aged 18-45) without this meaning young adult men are the only ones to enjoy such media.
@@ -55,3 +104,12 @@ collections:
   Slice Of Life:
     template: { name: Genre, poster: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21827-10F6m50H4GJK.png }
     summary: Minami-ke, a slice of life anime. The slice of life category of story is a story that portrays a "cut-out" sequence of events in a character's life. It may or may not contain any plot progress and little character development, and often has no exposition, conflict, or dénouement, with an open ending.
+  Sports:
+    template: {name: Genre, poster: https://theposterdb.com/api/assets/60371}
+    summary: Dodge, duck, dip, dive, and dodge.
+  Thriller:
+    template: {name: Genre, poster: https://theposterdb.com/api/assets/52019}
+    summary: Thriller Film is a genre that revolves around anticipation and suspense. The aim for Thrillers is to keep the audience alert and on the edge of their seats. The protagonist in these films is set against a problem – an escape, a mission, or a mystery. No matter what sub-genre a Thriller film falls into, it will emphasize the danger that the protagonist faces. The tension with the main problem is built on throughout the film and leads to a highly stressful climax.
+  War:
+    template: {name: Tag, poster: https://theposterdb.com/api/assets/51477}
+    summary: War Film is a genre that looks at the reality of war on a grand scale. They often focus on landmark battles as well as political issues within war. This genre usually focuses on a main character and his team of support, giving the audience an inside look into the gritty reality of war.

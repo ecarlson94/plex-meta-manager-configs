@@ -5,6 +5,7 @@ templates:
     smart_label: release.desc
     sonarr_add: true
     sonarr_series: anime
+    sonarr_folder: /anime
 collections:
   Plex Popular:
     template: { name: Chart, num: 1 }
