@@ -6,8 +6,7 @@ templates:
     sort_title: +4_<<collection_name>>
     url_poster: <<poster>>
     sync_mode: sync
-
-    smart_label: episode_added.desc
+    collection_order: alpha
 collections:
   HBO:
     template: { name: network, network: "49, 2593, 3186, 3308", poster: https://theposterdb.com/api/assets/113186 }

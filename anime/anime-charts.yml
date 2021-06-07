@@ -25,7 +25,6 @@ collections:
     summary: Popular Anime across the internet
   Top Rated:
     template: { name: Chart, num: 3 }
-    mal_all: 50
     anilist_top_rated: 50
     summary: Top Rated Anime across the internet
   Current Anime Season:
