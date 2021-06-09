@@ -12,12 +12,15 @@ templates:
     sync_mode: sync
     collection_order: alpha
 collections:
+  20th Century Studios:
+    template: { name: Studio, company: "25,1556,11749,127928" }
+    summary: 20th Century Studios, Inc. is an American film studio that is a subsidiary of Walt Disney Studios, a division of The Walt Disney Company. The studio is located on the Fox Studio Lot in the Century City area of Los Angeles. Walt Disney Studios Motion Pictures distributes and markets the films produced by 20th Century.
   Marvel Studios:
     template: { name: Studio, company: 420 }
-    summary: Metro-Goldwyn-Mayer Studios Inc.  is an American media company, involved primarily in the production and distribution of feature films and television programs. One of the world's oldest film studios, MGM's corporate headquarters are located in Beverly Hills, California.
+    summary: Marvel Studios, LLC (originally known as Marvel Films from 1993 to 1996) is an American film and television studio that is a subsidiary of Walt Disney Studios, a division of The Walt Disney Company. Marvel Studios is known for the production of the Marvel Cinematic Universe films, based on characters that appear in Marvel Comics publications.
   Lionsgate:
     template: { name: Studio, company: 1632 }
-    summary: Lions Gate Entertainment Corporation, is an American-Canadian entertainment company. It was formed by Frank Giustra on July 10, 1997, in Vancouver, British Columbia, Canada and is currently headquartered in Santa Monica, California, United States.      
+    summary: Lionsgate Entertainment Corporation, is an American-Canadian entertainment company. It was formed by Frank Giustra on July 10, 1997, in Vancouver, British Columbia, Canada and is currently headquartered in Santa Monica, California, United States.      
   Legendary:
     template: { name: Studio, company: 923 }
     summary: Legendary Pictures Productions, LLC, doing business as Legendary Entertainment or simply Legendary, is an American film production and mass media company based in Burbank, California. The company was founded by Thomas Tull in 2000 and in 2005 concluded an agreement to co-produce and co-finance films with Warner Bros. and Universal Pictures. Since 2016, Legendary has been a subsidiary of the Chinese conglomerate Wanda Group.   
@@ -35,7 +38,7 @@ collections:
     summary: Touchstone Pictures was an American film distribution label of Walt Disney Studios Motion Pictures, created and owned by The Walt Disney Company. Feature films released under the Touchstone label were produced and financed by The Walt Disney Studios, and featured more mature themes targeted towards adult audiences than typical Disney releases. As such, Touchstone was merely a brand of the studio and did not exist as a distinct business operation.
   Lucasfilm:
     template: { name: Studio, company: 1 }
-    summary: Lucasfilm Ltd. LLC is an American film and television production company that is a subsidiary of Walt Disney Studios, which is a business segment of The Walt Disney Company. The studio is best known for creating and producing the Star Wars and Indiana Jones franchises, as well as its leadership in developing special effects, sound, and computer animation for films. Lucasfilm was founded by filmmaker George Lucas in 1971 in San Rafael, California; most of the company's operations were moved to San Francisco in 2005.     
+    summary: Lucasfilm Ltd. LLC is an American film and television production company that is a subsidiary of Walt Disney Studios, which is a business segment of The Walt Disney Company. The studio is best known for creating and producing the Star Wars and Indiana Jones franchises, as well as its leadership in developing special effects, sound, and computer animation for films. Lucasfilm was founded by filmmaker George Lucas in 1971 in San Rafael, California; most of the company's operations were moved to San Francisco in 2005.
   United Artists:
     template: { name: Studio, company: 60 }
     summary: United Artists Corporation (UA), currently doing business as United Artists Digital Studios, is an American digital production company. Founded in 1919 by D. W. Griffith, Charlie Chaplin, Mary Pickford, and Douglas Fairbanks, the studio was premised on allowing actors to control their own interests, rather than being dependent upon commercial studios. UA was repeatedly bought, sold, and restructured over the ensuing century. Metro-Goldwyn-Mayer acquired the studio in 1981 for a reported $350 million     
@@ -177,4 +180,5 @@ collections:
   Walt Disney Pictures:
     template: { name: Studio }
     imdb_list: https://www.imdb.com/list/ls077114097/
-    summary: Walt Disney Pictures is an American film production studio of The Walt Disney Studios, which is owned by The Walt Disney Company. The studio is the flagship producer of live-action feature films within the Walt Disney Studios unit, and is based at the Walt Disney Studios in Burbank, California. Animated films produced by Walt Disney Animation Studios and Pixar Animation Studios are also released under this brand. Walt Disney Studios Motion Pictures distributes and markets the films produced by Walt Disney Pictures.        
+    summary: Walt Disney Pictures is an American film production studio of The Walt Disney Studios, which is owned by The Walt Disney Company. The studio is the flagship producer of live-action feature films within the Walt Disney Studios unit, and is based at the Walt Disney Studios in Burbank, California. Animated films produced by Walt Disney Animation Studios and Pixar Animation Studios are also released under this brand. Walt Disney Studios Motion Pictures distributes and markets the films produced by Walt Disney Pictures.
+    
